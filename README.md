@@ -3,6 +3,6 @@ The source code of the ACTION-VST framework.
 
 🚧 Code Optimization and Refinement in Progress 🚧
 
-Thank you for visiting this repository. We are currently in the process of refining and optimizing the codebase for better usability and performance. While the code is not ready for public release just yet, we are actively working on it and anticipate sharing it soon. 
+Thank you for visiting this repository. We are currently in the process of refining and optimizing the codebase for better usability and performance. We have already released the source code of ACTION-VST model, which can be used for learning and deployment. Nevertheless, we are still committed to its engineering.
 
-Thank you for your patience. We greatly appreciate your interest and understanding. We will make sure to promptly release the code in this repository as soon as it's ready. 
+The core source code of ACTION-VST has been released, and in the future, we will consider packaging it into a full-fledged video-level framework. Thank you for your patience. We greatly appreciate your interest and understanding.
